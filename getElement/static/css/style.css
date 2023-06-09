@@ -1,0 +1,27 @@
+body{
+
+    background-color: rgb(33, 61, 32);
+}
+
+.section{
+
+background-color: rgb(143, 195, 195);
+width: 100vw ;
+height: 1000vh;
+/* margin: 0; */
+}
+
+
+.section-1{
+
+    background-color: rgb(14, 50, 50);
+    width: 50vw ;
+    height: 50vh;    
+
+}
+.section-2{
+    background-color: rgb(113, 140, 140);
+    width: 50vw ;
+    height: 50vh;    
+
+}
